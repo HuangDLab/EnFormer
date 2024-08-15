@@ -2,6 +2,8 @@
 
 This project is developed based on the timm framework [https://github.com/huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) specifically for Polyp Segmentation.
 
+Paper: [https://arxiv.org/abs/2408.07262](http://arxiv.org/abs/2408.07262)
+
 ## Backbone weight
 
 Pretrained weight for transformer backbones can be downloaded via:
